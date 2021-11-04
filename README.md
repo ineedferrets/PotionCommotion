@@ -12,5 +12,7 @@ To get the release build and to learn how to play, [click here](https://jmhesket
 
 ## Credits
 **Lizzie Vialls** - Art, Sound, Game Design, Additional Programming
+
 **Myat Aung** - Level Design, Game Design, Programming
+
 **Joe Hesketh** - Technical Design, Project Lead, Game Design Programming
